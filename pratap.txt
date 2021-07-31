@@ -8,26 +8,35 @@ Backend :
 	- Spring JDBC
 	- Hibernate
 	- Unit Testing
-
-Frontend : 
-	- JS
+	
+Frontend :
 	- HTML
 	- CSS
+	- JS
 	- React
 	- React Native
-
+	
+JS Libraries :
+	- Material UI
+	
+Charting Lib :
+	- Echart JS
+	
 Web Services :
 	- RESTful web services
 
 Databases :
 	- PostgreSQL(SQL)
+	- MySQL(SQL)
 	- Apache Cassandra(NoSQL)
 
 Microservices :
+	- RestTemplate
 	- WebClient
 	- Redis
 
 Data Structures:
+	- 
 
 OOPS : 
 	- Object
@@ -51,7 +60,6 @@ SOLID priciples :
 	- Dependency Inversion
 
 Design Patterns :
-	- Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
 	- 
 
 System Design : 
