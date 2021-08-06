@@ -67,7 +67,10 @@ System Design :
 
 Interview Questions:
 -------------------
- 1. Microservices Disadvantages, personal experience
+ 1. Microservices Disadvantages, personal experience?
+ 	- Distibuted Caching environment.
+	- 
+ 
  2. Consider that there are 10 microservices in your architecture, how will you secure the communication between M1 and M2, etc.
  3. Your experience on Microservice Design Patterns.
  4. Consider each microservice has individual data source, I have a requirement to join data from two data sources, how can I implement this?
@@ -134,6 +137,9 @@ Interview Questions:
  55. Caching mechanism
  56. Do you think we can use a database for caching?
  57. explain how deletion works in cassandra?
+ 58. How does spring book work when you dont define any configurations?
+ 59. how autowired works?
+ 60. how is your system working? how are 2 users working on the same data update the DB? how are u handle this?
  
 
 
